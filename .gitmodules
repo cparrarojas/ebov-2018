@@ -1,0 +1,3 @@
+[submodule "sde-parameter-estimation"]
+	path = sdeparams
+	url = https://github.com/cparrarojas/sde-parameter-estimation
